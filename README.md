@@ -1,4 +1,4 @@
 mySpringBlogProj
 ================
 Developer - Raj Kumar RanaBhat
-Reference -jirka pinkas
+Reference -jiri pinkas
